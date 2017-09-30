@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "08d3fbfd28356298ff50cfd32a1013ea"
+build_time: [1506784571, 548849000]
+inputs:
+  "/Users/peter/Desktop/workspace/Vision.Barcode.Detection/Vision.Barcode.Detection/ViewController.swift": [1506784559, 0]
+  "/Users/peter/Desktop/workspace/Vision.Barcode.Detection/Vision.Barcode.Detection/AppDelegate.swift": [1506758223, 0]
